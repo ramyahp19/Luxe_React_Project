@@ -1,0 +1,348 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Rose Lipstick",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "2",
+      "name": "Glow Foundation",
+      "price": 1199,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    },
+    {
+      "id": "3",
+      "name": "Blush Palette",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a"
+    },
+    {
+      "id": "4",
+      "name": "Matte Lipstick",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9"
+    },
+    {
+      "id": "5",
+      "name": "Liquid Eyeliner",
+      "price": 499,
+      "image": "https://static.vecteezy.com/system/resources/previews/037/280/087/original/ai-generated-colorful-lipstick-isolated-on-transparent-background-free-png.png"
+    },
+    {
+      "id": "6",
+      "name": "Beauty Blender",
+      "price": 399,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "7",
+      "name": "Highlighter Kit",
+      "price": 1099,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "8",
+      "name": "Eyeshadow Palette",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    },
+    {
+      "id": "9",
+      "name": "Makeup Brush Set",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a"
+    },
+    {
+      "id": "10",
+      "name": "Compact Powder",
+      "price": 599,
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9"
+    },
+    {
+      "id": "11",
+      "name": "Lip Gloss",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "12",
+      "name": "Face Serum",
+      "price": 1399,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    },
+    {
+      "id": "13",
+      "name": "Primer",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a"
+    },
+    {
+      "id": "14",
+      "name": "BB Cream",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9"
+    },
+    {
+      "id": "15",
+      "name": "Mascara",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1607602132700-068258cc1a7f"
+    },
+    {
+      "id": "16",
+      "name": "Lip Balm",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    },
+    {
+      "id": "17",
+      "name": "Face Mist",
+      "price": 599,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "18",
+      "name": "Contour Kit",
+      "price": 1199,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    },
+    {
+      "id": "19",
+      "name": "Makeup Remover",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a"
+    },
+    {
+      "id": "20",
+      "name": "Setting Spray",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9"
+    },
+    {
+      "id": "21",
+      "name": "Luxury Lipstick",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1607602132700-068258cc1a7f"
+    },
+    {
+      "id": "22",
+      "name": "Silk Foundation",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    },
+    {
+      "id": "23",
+      "name": "Face Palette",
+      "price": 1199,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "24",
+      "name": "Lip Tint",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    },
+    {
+      "id": "25",
+      "name": "Beauty Powder",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a"
+    },
+    {
+      "id": "26",
+      "name": "Shimmer Highlighter",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9"
+    },
+    {
+      "id": "27",
+      "name": "Makeup Sponge",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1607602132700-068258cc1a7f"
+    },
+    {
+      "id": "28",
+      "name": "Luxury Brush",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    },
+    {
+      "id": "29",
+      "name": "Glow Oil",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "30",
+      "name": "Face Cream",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    }
+  ],
+  "tutorials": [
+    {
+      "id": "1",
+      "title": "Natural Makeup Tutorial",
+      "video": "https://www.youtube.com/embed/Xjv1sY630Uc"
+    },
+    {
+      "id": "2",
+      "title": "Party Glam Makeup",
+      "video": "https://www.youtube.com/embed/2zQ3t3y6l9k"
+    },
+    {
+      "id": "3",
+      "title": "Beginner Eye Makeup",
+      "video": "https://www.youtube.com/embed/5Vf8V4Yf6xM"
+    },
+    {
+      "id": "4",
+      "title": "Smokey Eye Tutorial",
+      "video": "https://www.youtube.com/embed/0H6N3F9v0hM"
+    },
+    {
+      "id": "5",
+      "title": "Bridal Makeup",
+      "video": "https://www.youtube.com/embed/3f7K8h9sA5Q"
+    },
+    {
+      "id": "6",
+      "title": "Soft Glam Look",
+      "video": "https://www.youtube.com/embed/Y4E9cY6Z0xM"
+    },
+    {
+      "id": "7",
+      "title": "Daily Makeup Routine",
+      "video": "https://www.youtube.com/embed/4X0Q4tXqz9M"
+    },
+    {
+      "id": "8",
+      "title": "Makeup for Beginners",
+      "video": "https://www.youtube.com/embed/h5C2p0b3QJY"
+    },
+    {
+      "id": "9",
+      "title": "Korean Makeup Look",
+      "video": "https://www.youtube.com/embed/lC6YH0v3W5I"
+    },
+    {
+      "id": "10",
+      "title": "Contour Tutorial",
+      "video": "https://www.youtube.com/embed/7V0x1E3F9bA"
+    },
+    {
+      "id": "11",
+      "title": "Highlight & Glow",
+      "video": "https://www.youtube.com/embed/xvFZjo5PgG0"
+    },
+    {
+      "id": "12",
+      "title": "College Makeup",
+      "video": "https://www.youtube.com/embed/3JZ_D3ELwOQ"
+    },
+    {
+      "id": "13",
+      "title": "Full Face Makeup",
+      "video": "https://www.youtube.com/embed/OPf0YbXqDm0"
+    },
+    {
+      "id": "14",
+      "title": "Makeup Mistakes",
+      "video": "https://www.youtube.com/embed/tVj0ZTS4WF4"
+    },
+    {
+      "id": "15",
+      "title": "Summer Glow Makeup",
+      "video": "https://www.youtube.com/embed/eY52Zsg-KVI"
+    },
+    {
+      "id": "16",
+      "title": "Night Party Makeup",
+      "video": "https://www.youtube.com/embed/60ItHLz5WEA"
+    },
+    {
+      "id": "17",
+      "title": "Professional Makeup",
+      "video": "https://www.youtube.com/embed/L_jWHffIx5E"
+    },
+    {
+      "id": "18",
+      "title": "Quick 5 Min Makeup",
+      "video": "https://www.youtube.com/embed/q0hyYWKXF0Q"
+    },
+    {
+      "id": "19",
+      "title": "Eye Makeup Tutorial",
+      "video": "https://www.youtube.com/embed/8F6n4s6t1kU"
+    },
+    {
+      "id": "20",
+      "title": "Lipstick Guide",
+      "video": "https://www.youtube.com/embed/2Vv-BfVoq4g"
+    },
+    {
+      "id": "21",
+      "title": "Makeup Routine",
+      "video": "https://www.youtube.com/embed/R1r2hQk7XyU"
+    },
+    {
+      "id": "22",
+      "title": "HD Makeup",
+      "video": "https://www.youtube.com/embed/z6p8Jr5t4Lk"
+    },
+    {
+      "id": "23",
+      "title": "Glow Skin Tutorial",
+      "video": "https://www.youtube.com/embed/bxJHq1pF3tM"
+    },
+    {
+      "id": "24",
+      "title": "College Look",
+      "video": "https://www.youtube.com/embed/3b1Q9VxF1lE"
+    },
+    {
+      "id": "25",
+      "title": "Monsoon Makeup",
+      "video": "https://www.youtube.com/embed/fJ9rUzIMcZQ"
+    },
+    {
+      "id": "26",
+      "title": "Beginner Guide",
+      "video": "https://www.youtube.com/embed/N7vJv9k7eTg"
+    },
+    {
+      "id": "27",
+      "title": "Bridal Look",
+      "video": "https://www.youtube.com/embed/1v0y8xj4pY8"
+    },
+    {
+      "id": "28",
+      "title": "Face Contour",
+      "video": "https://www.youtube.com/embed/3YpZ1KqQZ9Q"
+    },
+    {
+      "id": "29",
+      "title": "Makeup Hacks",
+      "video": "https://www.youtube.com/embed/MtCMtC50gwY"
+    },
+    {
+      "id": "30",
+      "title": "Perfect Makeup Routine",
+      "video": "https://www.youtube.com/embed/5qap5aO4i9A"
+    }
+  ],
+  "users": [
+    {
+      "name": "",
+      "id": "0XkB0r7-5ao"
+    },
+    {
+      "email": "ramyahp2004@gmail.com",
+      "password": "12345",
+      "id": "JgDiDF_x8aY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
